@@ -1,1 +1,1 @@
-![이미지테스트](./test-img.png)
+![이미지테스트](./test-img.PNG)
